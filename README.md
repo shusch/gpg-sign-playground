@@ -1,2 +1,1 @@
-# gpg-sign-playground
-GPG: signing git commits playground
+# GPG signing playground
