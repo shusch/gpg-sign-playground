@@ -1,1 +1,1 @@
-sign github noreply email address
+sign GPG email address
